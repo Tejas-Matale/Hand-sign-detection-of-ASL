@@ -2,7 +2,7 @@
 
 Necessary libraries-
 pip install mediapipe
-pip install keras==3.9.2
+pip install keras==2.3.1
 pip install opencv-python
-pip install tensorflow==2.19.0
+pip install tensorflow
 pip install scikit-learn
