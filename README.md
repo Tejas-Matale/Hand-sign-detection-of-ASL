@@ -17,3 +17,6 @@ Selecting from sugestion-
 
 Removing the letters from the stored letter-  
 ![image alt](https://github.com/Tejas-Matale/Hand-sign-detection-of-ASL/blob/72039ae3c743b11acbd5d3bb2c92cc30d62573d9/Demo/remove.png)  
+
+Confusion Matrix
+![image alt](https://github.com/Tejas-Matale/Hand-sign-detection-of-ASL/blob/main/Demo/confusion%20matrix.png)
